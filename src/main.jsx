@@ -7,11 +7,8 @@ import Footer from './components/Footer.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode >
   <body className=''>
-  
     <QuizTest/>
-  
     <Footer/>
-
   </body> 
   </React.StrictMode>,
 )
