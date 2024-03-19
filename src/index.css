@@ -1,0 +1,25 @@
+html{
+height: fit-content;
+
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+/* background-image: url('./assets/stacked-waves-haikei.svg'); */
+background-color: #F6F193;
+
+}
+body{
+  background-color: rgba(0, 0, 0, 0);
+}
+.spacer {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.backgroundLayer {
+  background-image: url('./assets/blurry-gradient-haikei.svg');
+}
